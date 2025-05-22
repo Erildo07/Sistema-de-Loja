@@ -1,4 +1,4 @@
-# Sistema de Loja
+![image](https://github.com/user-attachments/assets/b4dbeb1a-de93-4811-92b1-57a659774c00)# Sistema de Loja
 
 
 🏪 Sistema de Loja - Visão Geral
@@ -133,7 +133,7 @@ ItensVenda
 
 ## 👨‍💻 Desenvolvedores
 
-- **Erildo Nunes** – responsável pelo sistema principal, banco de dados e frontend.
-- **Rodrigo da Silva** – responsável pelas automações, bot do WhatsApp e sistema de vendas.
+- **Erildo Nunes** – responsável pelo sistema principal, banco de dados e beckend.
+- **Rodrigo da Silva** – responsável pelas automações, bot do WhatsApp , sistema de vendas e frntend.
 
 ---
