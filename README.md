@@ -134,6 +134,6 @@ ItensVenda
 ## 👨‍💻 Desenvolvedores
 
 - **Erildo Nunes** – responsável pelo sistema principal, banco de dados e beckend.
-- **Rodrigo da Silva** – responsável pelas automações, bot do WhatsApp , sistema de vendas e frntend.
+- **Rodrigo da Silva** – responsável pelas automações, bot do WhatsApp , sistema de vendas e frontend.
 
 ---
